@@ -1,6 +1,6 @@
 # Interior Motives
 
-A private-feeling, browser-based interior design studio. Built with Three.js and Vite; deployed as a static GitHub Pages site. No account or backend is needed. The deployed website is public; personal layouts remain in the browser unless exported.
+Move the furniture, paint individual wall sections and see what changes with the light. Built with Three.js and Vite; deployed as a static GitHub Pages site. No account or backend is needed. The deployed website is public; personal layouts remain in the browser unless exported.
 
 ## Use
 
